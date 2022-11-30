@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dr. Vicki Bealman</h1>
 <h3 align="center">A passionate developer and educator!</h3>
 
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F707DE&width=435&lines=Software+Development+%3D+Life-Changing)](https://git.io/typing-svg)
 
 
 <h3 align ="center">I am so happy you are visiting!</h3> 
@@ -33,6 +33,8 @@
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drvicki)](https://github.com/drvicki/github-readme-stats)
 
 ![GitHub followers](https://img.shields.io/github/followers/DrVicki?style=social)
 
